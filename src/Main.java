@@ -32,6 +32,9 @@ public class Main {
 
             System.out.println("Deseja continuar(s/n) : ");
             continuar = scanner.next();
+
+
+            scanner.close();
         }
 
 
